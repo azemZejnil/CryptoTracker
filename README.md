@@ -1,27 +1,11 @@
 # Trace
-Modern Crypto Portfolio & Market Explorer. Built with [Flutter](https://github.com/flutter/flutter).  
-Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
-
-Download for Android on [Google Play](https://play.google.com/store/apps/details?id=com.trentpiercy.trace). Join [Android Beta](https://play.google.com/apps/testing/com.trentpiercy.trace)!  
-Building for iOS works just fine, but I'm not giving Apple $99 to put this on the AppStore right now.
+Modern Crypto Portfolio & Market Explorer. Built with Flutter.
 
 <a href='https://play.google.com/store/apps/details?id=com.trentpiercy.trace&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=75/></a>
 
 <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/portfolio.gif" width="32%"> <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/markets.gif" width="32%"> <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/themes.gif" width="32%">
 
 <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/coin_stats.gif" width="49%"> <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/timeline_breakdown.gif" width="49%">
-
-### Features
-💰 Portfolio Overview  
-🌎 Aggregate Market Explorer  
-📊 Detailed Aggregate/Exchange Specific Market Data for every Coin  
-📈 Portfolio Timeline  
-📅 Transaction History  
-⭕️ Portfolio Breakdown  
-🌓 Automatic, Light, Dark & Dark OLED Theme Options  
-⚡ 7.3MB - Fast & Lightweight
-
-**[📹 Full Video](https://youtu.be/Di7MxXioESQ)**
 
 ## Screenshots
 💰 **Portfolio**
